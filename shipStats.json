@@ -4,7 +4,7 @@
 		"latitude": 22.543,
 		"longitude": -46.876,
 		"locationTimestamp" : 1493156604868
-	}
+	},
 	"shipLocationStats" : {
 		"aisNavigationalStatus" : 0,
 		"speed": 46,

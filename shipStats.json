@@ -1,5 +1,5 @@
 { 
-	"shipName": Allure Of The Seas,
+	"shipName": "Allure Of The Seas",
 	"shipLocation" : {
 		"latitude": 22.543,
 		"longitude": -46.876,
@@ -11,11 +11,11 @@
 		"heading": 53,
 		"course": 22,
 	},
-	"nextPortName": Miami,
+	"nextPortName": "Miami",
 	"nextPortArrivalTime": 1493156604868,
 	"distanceToTheNextPort": 24,
-	"currentPortName": Jamaica,
-	"lastPortName": Haiti,
+	"currentPortName": "Jamaica",
+	"lastPortName": "Haiti",
 	"lastPortDepartureTime": 1493156604868,
 	"historicalLocations" : [{
 		"location" : {
@@ -42,7 +42,7 @@
 			"course": 22,
 		}
 	}],
-	“futureLocations” : [{
+	"futureLocations" : [{
 		"location" : {
 			"latitude": 12.543,
 			"longitude": -44.876,

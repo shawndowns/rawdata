@@ -1,21 +1,58 @@
-{
-	"calculatedETA": "3600000",
-	"heading": "N",
-	"speed": "12 knots",
-	"flag": "https://www.royalcaribbean.com/content/royal/US/en_US/_jcr_content/header/nav-definition/logo-page.img.png/1480531493803.png",
-	"milesToNextPort": "12300",
-	"latitude": 25.986076,
-	"longitude": -80.30356,
-	"projectedPath": [{
-		"latitude": 25.986076,
-		"longitude": -80.30356
+{ 
+	"shipName": Allure Of The Seas,
+	"shipLocation" : {
+		"latitude": 22.543,
+		"longitude": -46.876,
+		"locationTimestamp" : 1493156604868
+	}
+	"shipLocationStats": {
+		"aisNavigationalStatus" : 0,
+		"speed": 46,
+		"heading": 53,
+		"course": 22,
+	},
+	"nextPortName": Miami,
+	"nextPortArrivalTime": 1493156604868,
+	"distanceToTheNextPort": 24,
+	"currentPortName": Jamaica,
+	"lastPortName": Haiti,
+	"lastPortDepartureTime": 1493156604868,
+	"historicalLocations" : [{
+		"location" : {
+			"latitude": 12.543,
+			"longitude": -44.876,
+			"locationTimestamp" : 1493156604868
+		},
+		"locationStats" : {
+			"aisNavigationalStatus" : 0,
+			“speed": 46,
+			"heading": 53,
+			"course": 22,
+		}
 	}, {
-		"latitude": 25.986076,
-		"longitude": -80.30356
-
-	},{
-		"latitude": 25.986076,
-		"longitude": -80.30356
-
+		"location" : {
+			"latitude": 12.543,
+			"longitude": -44.876,
+			"locationTimestamp" : 1493156604868
+		},
+		"locationStats" : {
+			"aisNavigationalStatus" : 0,
+			“speed": 46,
+			"heading": 53,
+			"course": 22,
+		}
+	}],
+	“futureLocations” : [{
+		"location" : {
+			"latitude": 12.543,
+			"longitude": -44.876,
+			"locationTimestamp" : 1493156604868
+		}
+	}, {
+		"location" : {
+			"latitude": 13.543,
+			"longitude": -44.876,
+			"locationTimestamp" : 1493156604868
+		}
 	}]
 }

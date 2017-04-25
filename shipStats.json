@@ -5,7 +5,7 @@
 		"longitude": -46.876,
 		"locationTimestamp" : 1493156604868
 	}
-	"shipLocationStats": {
+	"shipLocationStats" : {
 		"aisNavigationalStatus" : 0,
 		"speed": 46,
 		"heading": 53,

@@ -1,0 +1,21 @@
+{
+	"calculatedETA": "3600000",
+	"heading": "N",
+	"speed": "12 knots",
+	"flag": "https://www.royalcaribbean.com/content/royal/US/en_US/_jcr_content/header/nav-definition/logo-page.img.png/1480531493803.png",
+	"milesToNextPort": "12300",
+	latitude: 25.986076,
+	longitude: -80.30356,
+	projectedPath: [{
+		latitude: 25.986076,
+		longitude: -80.30356
+	}, {
+		latitude: 25.986076,
+		longitude: -80.30356
+
+	},{
+		latitude: 25.986076,
+		longitude: -80.30356
+
+	}]
+}

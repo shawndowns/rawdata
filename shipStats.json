@@ -9,7 +9,7 @@
 		"aisNavigationalStatus" : 0,
 		"speed": 46,
 		"heading": 53,
-		"course": 22,
+		"course": 22
 	},
 	"nextPortName": "Miami",
 	"nextPortArrivalTime": 1493156604868,
@@ -27,7 +27,7 @@
 			"aisNavigationalStatus" : 0,
 			"speed": 46,
 			"heading": 53,
-			"course": 22,
+			"course": 22
 		}
 	}, {
 		"location" : {
@@ -39,7 +39,7 @@
 			"aisNavigationalStatus" : 0,
 			"speed": 46,
 			"heading": 53,
-			"course": 22,
+			"course": 22
 		}
 	}],
 	"futureLocations" : [{

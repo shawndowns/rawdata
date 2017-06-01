@@ -1,0 +1,13 @@
+{
+	"ship_info": [{
+		"ship": "AL",
+		"medical": "<h1>Medical</h1><p>Don't get hurt... please...</p>",
+		"termsAndConditions": "<h1>Terms and Conditions</h1><p>In all terms and conditions, have fun!</p>",
+		"privacyPolicy": "<h1>Privacy Polocy</h1><p>It's kind of like Vegas</p>"
+	}, {
+		"ship": "AN",
+		"medical": "<h1>Medical</h1><p>Again, getting hurt is not allowed...</p>",
+		"termsAndConditions": "<h1>Terms and Conditions</h1><p>Leave your stress at home!</p>",
+		"privacyPolicy": "<h1>Privacy Polocy</h1><p>What happens on the ship...</p>"
+	}]
+}

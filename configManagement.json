@@ -7,6 +7,11 @@
 			"itemName": "RATEMYAPP",
 			"itemValue": "FALSE"
 		}, {
+			"scopeName": "BRAND",
+			"scopeValue": "R",
+			"itemName": "Some Brand Config",
+			"itemValue": "Some Brand Value"
+		}, {
 			"scopeName": "SHIP",
 			"scopeValue": "AL",
 			"itemName": "ShoreX",

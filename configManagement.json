@@ -1,36 +1,41 @@
 {
 	"AppConfig": {
-		"lastModifiedDate": "20170531",
+		"lastModifiedDate": "20170605",
 		"data": [{
 			"scopeName": "GLOBAL",
 			"scopeValue": "",
 			"itemName": "RATEMYAPP",
 			"itemValue": "FALSE"
 		}, {
-			"scopeName": "BRAND",
-			"scopeValue": "R",
-			"itemName": "BuildAwesomeShips",
-			"itemValue": "TRUE"
-		}, {
 			"scopeName": "SHIP",
 			"scopeValue": "AL",
 			"itemName": "ShoreX",
-			"itemValue": "TRUE"
+			"itemValue": "FALSE"
 		}, {
 			"scopeName": "SHIP",
 			"scopeValue": "AL",
-			"itemName": "BadWeather",
-			"itemValue": "FALSE"
+			"itemName": "Weather",
+			"itemValue": "TRUE"
 		}, {
 			"scopeName": "os",
 			"scopeValue": "iOS",
 			"itemName": "minVersion",
-			"itemValue": "1.0"
+			"itemValue": "1.5"
 		}, {
 			"scopeName": "os",
 			"scopeValue": "iOS",
 			"itemName": "recommendedVersion",
-			"itemValue": "1.2"
+			"itemValue": "2.0"
+		}, {
+			"scopeName": "os",
+			"scopeValue": "Android",
+			"itemName": "minVersion",
+			"itemValue": "1.3"
+		}, {
+			"scopeName": "os",
+			"scopeValue": "Android",
+			"itemName": "recommendedVersion",
+			"itemValue": "2.1"
 		}]
 	}
 }

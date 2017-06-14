@@ -5,7 +5,7 @@
 			"scopeName": "GLOBAL",
 			"scopeValue": "",
 			"itemName": "RATEMYAPP",
-			"itemValue": "FALSE"
+			"itemValue": "TRUE"
 		}, {
 			"scopeName": "BRAND",
 			"scopeValue": "R",
@@ -25,12 +25,12 @@
 			"scopeName": "os",
 			"scopeValue": "iOS",
 			"itemName": "minVersion",
-			"itemValue": "1.5"
+			"itemValue": "0.1.5"
 		}, {
 			"scopeName": "os",
 			"scopeValue": "iOS",
 			"itemName": "recommendedVersion",
-			"itemValue": "2.0"
+			"itemValue": "0.1.5"
 		}, {
 			"scopeName": "os",
 			"scopeValue": "Android",
